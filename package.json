@@ -1,6 +1,6 @@
 {
   "name": "js-commit",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "js 代码校验工具",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shihangbo/js-commit/issues"
+  },
+  "bin": {
+    "js-commit": "bin/index"
   },
   "homepage": "https://github.com/shihangbo/js-commit#readme"
 }
