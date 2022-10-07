@@ -6,7 +6,6 @@ bootstrap({
   cliPath: path.join(__dirname, '../../node_modules/commitizen'),
   // this is new
   config: {
-    "path": "cz-conventional-changelog",
-    "path": "cz-emoji"
+    "path": "cz-conventional-changelog"
   }
 });
