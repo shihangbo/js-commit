@@ -1,6 +1,6 @@
 {
   "name": "js-commit",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "js 代码校验工具",
   "main": "index.js",
   "scripts": {
